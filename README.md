@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abhi00000007
-- 👀 I’m interested in learing programming language and transition my career into it.
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Abhilash Shah @Abhi00000007
+- 👀 I’m interested in learing programming language and building models.
+- 🌱 I’m currently working as a Business Analyst
 - 💞️ I’m looking to collaborate on Python learning
 - 📫 How to reach me abhilash.shah1@gmail.com
 
